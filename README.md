@@ -13,3 +13,7 @@
 - [Awesome douban DEMO created with Vue2.x + Vuex + Vue-router + vue-resource](https://github.com/jeneser/douban)
 
 - [Ponitor 价格监测应用](https://github.com/giscafer/Ponitor)
+
+- [用 Vue、Vuex、Immutable 做俄罗斯方块, 教你如何把 React 项目重构为 Vue 项目] (https://github.com/Binaryify/vue-tetris)
+
+- [使用vue.js仿一个链家] (https://github.com/mixihome/lianjia)
